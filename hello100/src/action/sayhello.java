@@ -10,6 +10,9 @@ public class sayhello {
 	private String number;
 	private String bookname;
 	private String author_id;
+	private String x;
+	private String y;
+	private String z;
 	
 	public String chaxun() 
 	{
