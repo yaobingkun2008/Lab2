@@ -13,6 +13,7 @@ public class sayhello {
 	private String x;
 	private String y;
 	private String z;
+	private String h;
 	
 	public String chaxun() 
 	{
