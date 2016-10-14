@@ -10,11 +10,6 @@ public class sayhello {
 	private String number;
 	private String bookname;
 	private String author_id;
-	private String x;
-	private String y;
-	private String z;
-	private String h;
-	private String p;
 	public String chaxun() 
 	{
 		if(name.length()<1)
